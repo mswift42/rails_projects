@@ -22,3 +22,4 @@ doc/
 .idea
 .secret
 /sample_app/config/initializers/secret_token.rb
+/sample_app/spec/requests/.#static_pages_spec.rb

@@ -24,3 +24,4 @@ doc/
 /sample_app/config/initializers/secret_token.rb
 /sample_app/spec/requests/.#static_pages_spec.rb
 /sample_app/spec/requests/#static_pages_spec.rb#
+/sample_app/app/views/static_pages/.#about.html.erb

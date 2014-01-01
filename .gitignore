@@ -25,3 +25,7 @@ doc/
 /sample_app/spec/requests/.#static_pages_spec.rb
 /sample_app/spec/requests/#static_pages_spec.rb#
 /sample_app/app/views/static_pages/.#about.html.erb
+/sample_app/app/assets/images/photo-martin.jpg
+/sample_app/app/assets/stylesheets/.sass-cache/699c42bd16fd3837aff5a2517eb9126daf262b1a/custom.css.scssc
+/sample_app/app/assets/stylesheets/.sass-cache/9a3c4552f7ddb1165cc5a7c1a5c782eb549c02df/custom.css.scssc
+/sample_app/app/assets/stylesheets/.sass-cache/c54446326b20e7c8e38c1fd1053e9d04c121021a/custom.css.scssc

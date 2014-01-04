@@ -34,3 +34,8 @@ doc/
 /sample_app/app/assets/stylesheets/.sass-cache/8e98fd3bc1ce4221535fd3b30af209904ad38206/custom.css.scssc
 /sample_app/app/assets/stylesheets/.sass-cache/d2e23e611f251eab8df88f0fc7faf5c50d93f590/custom.css.scssc
 /sample_app/app/assets/stylesheets/.sass-cache/e2fd9d4a6aa5835569c8d220a0086ad66925026d/custom.css.scssc
+/sample_app/app/assets/stylesheets/.sass-cache/1872747e21b58b7954dc445d02c8baa31be96b87/custom.css.scssc
+/sample_app/app/assets/stylesheets/.sass-cache/985ae3be5a2e0c2103e5004edb9a1e1efa9a7825/custom.css.scssc
+/sample_app/app/assets/stylesheets/.sass-cache/c74ea3021741de0b9f6e1c2be51a06c530a1c278/custom.css.scssc
+/sample_app/db/migrate/20140104093616_add_remember_token_to_users.rb
+/sample_app/spec/models/#user_spec.rb#

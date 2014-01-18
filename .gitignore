@@ -39,3 +39,7 @@ doc/
 /sample_app/app/assets/stylesheets/.sass-cache/c74ea3021741de0b9f6e1c2be51a06c530a1c278/custom.css.scssc
 /sample_app/db/migrate/20140104093616_add_remember_token_to_users.rb
 /sample_app/spec/models/#user_spec.rb#
+/todolist/Gemfile.lock
+/todolist/db/migrate/20140116204828_devise_create_users.rb
+/atodolist/vendor/assets/javascripts/.keep
+/atodolist/vendor/assets/stylesheets/.keep

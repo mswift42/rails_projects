@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  summary: MyString
+  content: MyString
+  todo: MyString
+  task_id: 2014-04-27 19:09:24
+  scheduled: 2014-04-27 19:09:24
+
+two:
+  summary: MyString
+  content: MyString
+  todo: MyString
+  task_id: 2014-04-27 19:09:24
+  scheduled: 2014-04-27 19:09:24
